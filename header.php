@@ -9,10 +9,11 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="fonts/glyphicons-halflings-regular.svg" rel="icon">
+    <link href="fonts/glyphicons-halflings-regular.eot" rel="icon">
     <link href="css/style.css" rel="stylesheet">
 
 
-    <script src="js/script.js"></script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -25,9 +26,16 @@
 
 <div class="container">
 
+    <!--лого сайта-->
+    <div class="row center-block page-header">
+        <div class="col-md-12">
+            <img src="images/logo_white.png" class="img img-responsive" alt="логотип"/>
+        </div>
+    </div>
+
     <!--навигационная панель-->
-    <div class="navbar navbar-default navbar-fixed-top navbar-inverse text-uppercase navbar-text" role="navigation">
-        <div class="navbar-inner">
+    <div class="navbar navbar-default text-uppercase" role="navigation">
+        <div class="">
             <div class="container">
 
                 <div class="navbar-header">
@@ -108,6 +116,8 @@
             </div>
         </div>
     </div>
+
+
 
     <!--хлебные крошки для навигации-->
     <div>

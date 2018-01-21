@@ -1,22 +1,64 @@
+@media only screen and (max-width: 2560px){
+    div.content {
+        padding-top: 2%;
+    }
+}
 
-.navbar {
+@media only screen and (max-width: 1200px){
+    div.content {
+        padding-top: 2%;
+    }
+}
+
+@media only screen and (max-width: 550px){
+    div.content {
+        padding-top: 2%;
+    }
+    div.row.center-block.page-header {
+        display: none;
+    }
+}
+
+div.row.center-block.page-header {
+    background-color: rgba(0,0,0,0.9);
+}
+
+div.navbar {
     text-transform: uppercase;
+
+    font-weight: bold;
 }
 
-.logonavbar{
-    max-width: inherit;
-    max-height: inherit;
-    align-content: flex-end;
+.dropdown:hover > .dropdown-menu {
+    display: block;
 }
 
-/* хлебные крошки */
+/* хлебные крошки ДОЛЖНЫ ЗДЕСЬ БЫТЬ!!!*/
 
 
 div.content {
     text-align: justify;
+    background-color: rgba(0,0,0,0.9);
 }
 
 div.content>div.h1 {
     text-align: center;
-    padding-top: 7%;
+}
+
+
+
+body {
+    /*background-color: #34495e;*/
+    background-image: url("../images/background.jpg");
+    color: white;
+}
+
+/*Прижимаєм футер*/
+.content {
+    min-height: calc(100vh - 42px);
+}
+
+#footer {
+    color: black;
+    font-weight: bold;
 }
