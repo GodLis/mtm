@@ -1,0 +1,22 @@
+
+.navbar {
+    text-transform: uppercase;
+}
+
+.logonavbar{
+    max-width: inherit;
+    max-height: inherit;
+    align-content: flex-end;
+}
+
+/* хлебные крошки */
+
+
+div.content {
+    text-align: justify;
+}
+
+div.content>div.h1 {
+    text-align: center;
+    padding-top: 7%;
+}
