@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>МирТехМаш</title>
-    <link href="images/logo_for_icon.ico" rel="shortcut icon" type="image/x-icon">
+    <link href="images/mir_tekh_mash_icon.ico" rel="shortcut icon" type="image/x-icon">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -28,8 +28,27 @@
 
     <!--лого сайта-->
     <div class="row center-block page-header">
-        <div class="col-md-12">
-            <img src="images/logo_white.png" class="img img-responsive" alt="логотип"/>
+        <div class="col-md-8 col-sm-12">
+            <img src="images/mir_tekh_mash_logo.png" class="img img-responsive" alt="логотип"/>
+        </div>
+        <!--<div class="col-md-1 col-sm-3 col-xs-3">
+            <button>
+                <a href="vk.com/">
+                    <img src="images/vk_2.png" class="img img-responsive" alt="логотип"/>
+                </a>
+            </button>
+        </div>-->
+        <div class="col-md-1 col-sm-3 col-xs-3 social_icon">
+            <img src="images/vk_2.png" class="img img-responsive" alt="логотип"/>
+        </div>
+        <div class="col-md-1 col-sm-3 col-xs-3 social_icon">
+            <img src="images/vk_2.png" class="img img-responsive" alt="логотип"/>
+        </div>
+        <div class="col-md-1 col-sm-3 col-xs-3 social_icon">
+            <img src="images/vk_2.png" class="img img-responsive" alt="логотип"/>
+        </div>
+        <div class="col-md-1 col-sm-3 col-xs-3 social_icon">
+            <img src="images/vk_2.png" class="img img-responsive" alt="логотип"/>
         </div>
     </div>
 
