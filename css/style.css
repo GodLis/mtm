@@ -36,6 +36,13 @@ div.navbar {
 .social_icon {
     padding-top: 3%;
 }
+.nav_icon {
+    border: 0;
+}
+
+img.img.img-responsive.nav_icon {
+    background-color: rgba(0,0,0,0.5);
+}
 
 /* хлебные крошки ДОЛЖНЫ ЗДЕСЬ БЫТЬ!!!*/
 
@@ -62,11 +69,11 @@ body {
 }
 
 /*Прижимаєм футер*/
-.content {
+/*.content {
     min-height: calc(100vh - 42px);
 }
 
 #footer {
     color: black;
     font-weight: bold;
-}
+}*/

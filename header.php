@@ -31,15 +31,11 @@
         <div class="col-md-8 col-sm-12">
             <img src="images/mir_tekh_mash_logo.png" class="img img-responsive" alt="логотип"/>
         </div>
-        <!--<div class="col-md-1 col-sm-3 col-xs-3">
-            <button>
-                <a href="vk.com/">
-                    <img src="images/vk_2.png" class="img img-responsive" alt="логотип"/>
-                </a>
-            </button>
-        </div>-->
+
         <div class="col-md-1 col-sm-3 col-xs-3 social_icon">
-            <img src="images/vk_2.png" class="img img-responsive" alt="логотип"/>
+            <button>
+                <img src="images/vk_2.png" class="img img-responsive nav_icon" onclick='location.href="http://vk.com/"'/>
+            </button>
         </div>
         <div class="col-md-1 col-sm-3 col-xs-3 social_icon">
             <img src="images/vk_2.png" class="img img-responsive" alt="логотип"/>
@@ -74,7 +70,7 @@
                     <ul class="nav navbar-nav">
 
                         <li class="dropdown">
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="index.php">визитка
+                            <a class="dropdown-toggle" href="index.php">визитка
                                 <b class="caret"></b>
                             </a>
                             <ul class="dropdown-menu">
@@ -84,19 +80,21 @@
                         </li>
 
                         <li class="dropdown">
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">услуги
+                            <a class="dropdown-toggle" href="services.php">услуги
                                 <b class="caret"></b>
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a href="">изготовление комплектов для модернизации станка модели 16А20</a></li>
-                                <li><a href="">капитальный ремонт станков</a></li>
-                                <li><a href="">модернизация металлорежущего оборудования</a></li>
-                                <li><a href="">ремонт электронных плат</a></li>
+                                <li><a href="manufacturing_upgrade_kit_machine_model_16A20.php">
+                                        изготовление комплектов для модернизации станка модели 16А20</a></li>
+                                <li><a href="capital_repair_of_machines.php">капитальный ремонт станков</a></li>
+                                <li><a href="modernization_of_metal_cutting_equipment.php">
+                                        модернизация металлорежущего оборудования</a></li>
+                                <li><a href="repair_of_electronic_boards.php">ремонт электронных плат</a></li>
                             </ul>
                         </li>
 
                         <li class="dropdown">
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">станки
+                            <a class="dropdown-toggle" href="#">станки
                                 <b class="caret"></b>
                             </a>
                             <ul class="dropdown-menu">
@@ -119,7 +117,7 @@
                         <li><a href="">наши работы</a></li>
 
                         <li class="dropdown">
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">полезная информация
+                            <a class="dropdown-toggle" href="#">полезная информация
                                 <b class="caret"></b>
                             </a>
                             <ul class="dropdown-menu">

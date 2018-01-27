@@ -4,7 +4,7 @@
     <div class="btn btn-link ">
         <a href="#top">
             <button type="button">
-                <span class="glyphicon glyphicon-arrow-up"></span>
+                <img src="images/icon_up.png"/>
             </button>
         </a>
     </div>
