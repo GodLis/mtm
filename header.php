@@ -74,8 +74,8 @@
                                 <b class="caret"></b>
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a href="">контакты</a></li>
-                                <li><a href="">реквизиты</a></li>
+                                <li><a href="contacts.php">контакты</a></li>
+                                <li><a href="requisites.php">реквизиты</a></li>
                             </ul>
                         </li>
 
@@ -94,36 +94,35 @@
                         </li>
 
                         <li class="dropdown">
-                            <a class="dropdown-toggle" href="#">станки
+                            <a class="dropdown-toggle" href="machine_tools.php">станки
                                 <b class="caret"></b>
                             </a>
                             <ul class="dropdown-menu">
 
-                                <li><a href="">токарные станки с ЧПУ</a></li>
-                                <li><a href="">универсальные токарные станки</a></li>
+                                <li><a href="lathes_with_CNC_Unit.php">токарные станки с ЧПУ</a></li>
+                                <li><a href="universal_lathes.php">универсальные токарные станки</a></li>
 
-                                <li><a href="">фрезерные станки</a></li>
+                                <li><a href="milling_machines.php">фрезерные станки</a></li>
 
-                                <li><a href="">плоскошлифовальные станки</a></li>
-                                <li><a href="">круглошлифовальные станки</a></li>
+                                <li><a href="surface_grinding_machines.php">плоскошлифовальные станки</a></li>
+                                <li><a href="сylindrical_grinding_machines.php">круглошлифовальные станки</a></li>
 
                             </ul>
                         </li>
 
-                        <li><a href="">комплектующие к приводам, чпу</a></li>
+                        <li><a href="accessories_for_drives_and_CNC.php">комплектующие к приводам, чпу</a></li>
 
-                        <li><a href="">склад</a></li>
+                        <li><a href="storehouse.php">склад</a></li>
 
-                        <li><a href="">наши работы</a></li>
+                        <li><a href="our_works.php">наши работы</a></li>
 
                         <li class="dropdown">
-                            <a class="dropdown-toggle" href="#">полезная информация
+                            <a class="dropdown-toggle" href="helpful_information.php">полезная информация
                                 <b class="caret"></b>
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a href="">новости</a></li>
-                                <li><a href="">видео</a></li>
-                                <li><a href="">тематический материал</a></li>
+                                <li><a href="news">новости</a></li>
+                                <li><a href="thematic_material.php">тематический материал</a></li>
                             </ul>
                         </li>
 
@@ -136,7 +135,6 @@
 
 
 
-    <!--хлебные крошки для навигации-->
     <div>
 
     </div>
