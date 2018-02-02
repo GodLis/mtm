@@ -12,11 +12,11 @@ include "header.php";
             Отечественные
         </div>
 
-        <div class="row">
-            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
-                <img src="images/machines/img_1.jpg" class="img img-responsive"/>
+        <div class="row table-bordered" style="padding: 10px">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
+                <img src="images/machines/img_1.jpg" class="img img-responsive table-bordered"/>
             </div>
-            <div class="col-xs-6 col-sm-6 col-md-8 col-lg-9">
+            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
                 <b>ТОКАРНО-ВИНТОРЕЗНЫЙ СТАНОК 16А20Ф3</b>
                 <hr>
@@ -108,11 +108,11 @@ include "header.php";
 
         <br>
 
-        <div class="row">
-            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+        <div class="row table-bordered" style="padding: 10px">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
                 <img src="images/machines/img_2.jpg" class="img img-responsive"/>
             </div>
-            <div class="col-xs-6 col-sm-6 col-md-8 col-lg-9">
+            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
                 <b>ТОКАРНО-ВИНТОРЕЗНЫЙ СТАНОК 16Б16</b>
                 <hr>
@@ -237,11 +237,11 @@ include "header.php";
             Болгарские
         </div>
 
-        <div class="row">
-            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+        <div class="row table-bordered" style="padding: 10px">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
                 <img src="images/machines/img_3.jpg" class="img img-responsive"/>
             </div>
-            <div class="col-xs-6 col-sm-6 col-md-8 col-lg-9">
+            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
                 <b>C832C</b>
                 <hr>
@@ -289,7 +289,199 @@ include "header.php";
                         <tbody>
                         <tr>
                             <th scope="row">ЧПУ \ УЦИ:</th>
-                            <td>чпу</td>
+                            <td>ЧПУ</td>
+                        </tr>
+                        </tbody>
+                    </table>
+
+                    <br>
+                </div>
+            </div>
+        </div>
+
+        <br>
+
+        <div class="row table-bordered" style="padding: 10px">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
+                <img src="images/machines/img_4.jpg" class="img img-responsive"/>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
+                <hr>
+                <b>C932C</b>
+                <hr>
+                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me4">Показать подробную информацию</button>
+                <div id="hide-me4" class="collapse">
+                    <br>
+                    <table class="table table-responsive">
+                        <thead>
+                        <tr>
+                            <th style="text-align: center">Производитель:</th>
+                        </tr>
+                        </thead>
+
+                        <tbody>
+                        <tr>
+                            <th scope="row">Модель:</th>
+                            <td>C932C</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Год выпуска:</th>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Диаметр обработки над станиной, мм:</th>
+                            <td>930</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Диаметр отверстия шпинделя, мм:</th>
+                            <td>133</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Мощность, кВт:</th>
+                            <td>15 (18,5)</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Масса, кг:</th>
+                            <td>6460</td>
+                        </tr>
+                        </tbody>
+                    </table>
+
+                    <table class="table table-responsive">
+                        <thead>
+                        <tr>
+                            <th style="text-align: center">Оборудование:</th>
+                        </tr>
+                        </thead>
+
+                        <tbody>
+                        <tr>
+                            <th scope="row">ЧПУ \ УЦИ:</th>
+                            <td>ЧПУ</td>
+                        </tr>
+                        </tbody>
+                    </table>
+
+                    <br>
+                </div>
+            </div>
+        </div>
+
+        <br>
+
+        <div class="row table-bordered" style="padding: 10px">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
+                <img src="images/machines/img_5.jpg" class="img img-responsive"/>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
+                <hr>
+                <b>C1032C</b>
+                <hr>
+                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me5">Показать подробную информацию</button>
+                <div id="hide-me5" class="collapse">
+                    <br>
+                    <table class="table table-responsive">
+                        <thead>
+                        <tr>
+                            <th style="text-align: center">Производитель:</th>
+                        </tr>
+                        </thead>
+
+                        <tbody>
+                        <tr>
+                            <th scope="row">Модель:</th>
+                            <td>C1032C</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Год выпуска:</th>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Мощность, кВт:</th>
+                            <td>15 (18,5)</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Масса, кг:</th>
+                            <td>6720</td>
+                        </tr>
+                        </tbody>
+                    </table>
+
+                    <table class="table table-responsive">
+                        <thead>
+                        <tr>
+                            <th style="text-align: center">Оборудование:</th>
+                        </tr>
+                        </thead>
+
+                        <tbody>
+                        <tr>
+                            <th scope="row">ЧПУ \ УЦИ:</th>
+                            <td>ЧПУ</td>
+                        </tr>
+                        </tbody>
+                    </table>
+
+                    <br>
+                </div>
+            </div>
+        </div>
+
+        <br>
+
+        <div class="row table-bordered" style="padding: 10px">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
+                <img src="images/machines/img_6.jpg" class="img img-responsive"/>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
+                <hr>
+                <b>C1132C</b>
+                <hr>
+                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me6">Показать подробную информацию</button>
+                <div id="hide-me6" class="collapse">
+                    <br>
+                    <table class="table table-responsive">
+                        <thead>
+                        <tr>
+                            <th style="text-align: center">Производитель:</th>
+                        </tr>
+                        </thead>
+
+                        <tbody>
+                        <tr>
+                            <th scope="row">Модель:</th>
+                            <td>C1132C</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Год выпуска:</th>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Диаметр отверстия шпинделя, мм:</th>
+                            <td>133</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Мощность, кВт:</th>
+                            <td>15 (18,5)</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Масса, кг:</th>
+                            <td>6940</td>
+                        </tr>
+                        </tbody>
+                    </table>
+
+                    <table class="table table-responsive">
+                        <thead>
+                        <tr>
+                            <th style="text-align: center">Оборудование:</th>
+                        </tr>
+                        </thead>
+
+                        <tbody>
+                        <tr>
+                            <th scope="row">ЧПУ \ УЦИ:</th>
+                            <td>ЧПУ</td>
                         </tr>
                         </tbody>
                     </table>

@@ -8,24 +8,24 @@ include "header.php";
             КАПИТАЛЬНЫЙ РЕМОНТ СТАНКОВ
         </div>
         <div class="row">
-            <div class="col-xs-12 col-sm-6 col-md-3">
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
                 <a href="images/services/img_11.JPG">
-                    <img src="images/services/img_11.JPG" class="img img-responsive" alt=""/>
+                    <img src="images/services/img_11.JPG" class="img img-responsive table-bordered" alt=""/>
                 </a>
             </div>
-            <div class="col-xs-12 col-sm-6 col-md-3">
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
                 <a href="images/services/img_12.jpg">
-                    <img src="images/services/img_12.jpg" class="img img-responsive" alt=""/>
+                    <img src="images/services/img_12.jpg" class="img img-responsive table-bordered" alt=""/>
                 </a>
             </div>
-            <div class="col-xs-12 col-sm-6 col-md-3">
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
                 <a href="images/services/img_13.jpg">
-                    <img src="images/services/img_13.jpg" class="img img-responsive" alt=""/>
+                    <img src="images/services/img_13.jpg" class="img img-responsive table-bordered" alt=""/>
                 </a>
             </div>
-            <div class="col-xs-12 col-sm-6 col-md-3">
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
                 <a href="images/services/img_14.JPG">
-                    <img src="images/services/img_14.JPG" class="img img-responsive" alt=""/>
+                    <img src="images/services/img_14.JPG" class="img img-responsive table-bordered" alt=""/>
                 </a>
             </div>
         </div>
@@ -55,7 +55,7 @@ include "header.php";
                     НАШИ РАБОТЫ
                 </a></b>
         </div>
-
+        <br>
     </div>
 
 <?php

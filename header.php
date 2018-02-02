@@ -54,7 +54,7 @@
             <div class="container">
 
                 <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                    <button type="button" class="navbar-toggle collapsed " data-toggle="collapse"
                             data-target=".nav-collapse" aria-expanded="false" aria-controls="navbar">
                         <span class="sr-only">Toggle navigation</span>
                         <span class="icon-bar"></span>
@@ -70,7 +70,7 @@
                     <ul class="nav navbar-nav">
 
                         <li class="dropdown">
-                            <a class="dropdown-toggle" href="index.php">визитка
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="index.php">визитка
                                 <b class="caret"></b>
                             </a>
                             <ul class="dropdown-menu">
@@ -105,7 +105,7 @@
                                 <li><a href="milling_machines.php">фрезерные станки</a></li>
 
                                 <li><a href="surface_grinding_machines.php">плоскошлифовальные станки</a></li>
-                                <li><a href="сylindrical_grinding_machines.php">круглошлифовальные станки</a></li>
+                                <li><a href="cylindrical_grinding_machines.php">круглошлифовальные станки</a></li>
 
                             </ul>
                         </li>
@@ -121,7 +121,7 @@
                                 <b class="caret"></b>
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a href="news">новости</a></li>
+                                <li><a href="news.php">новости</a></li>
                                 <li><a href="thematic_material.php">тематический материал</a></li>
                             </ul>
                         </li>

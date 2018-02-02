@@ -8,24 +8,24 @@ include "header.php";
             ИЗГОТОВЛЕНИЕ КОМПЛЕКТОВ ДЛЯ МОДЕРНИЗАЦИИ СТАНКА МОДЕЛИ 16А20
         </div>
         <div class="row">
-            <div class="col-xs-12 col-sm-6 col-md-3">
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
                 <a href="images/services/img_1.jpg">
-                    <img src="images/services/img_1.jpg" class="img img-responsive" alt=""/>
+                    <img src="images/services/img_1.jpg" class="img img-responsive table-bordered" alt=""/>
                 </a>
             </div>
-            <div class="col-xs-12 col-sm-6 col-md-3">
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
                 <a href="images/services/img_2.JPG">
-                    <img src="images/services/img_2.JPG" class="img img-responsive" alt=""/>
+                    <img src="images/services/img_2.JPG" class="img img-responsive table-bordered" alt=""/>
                 </a>
             </div>
-            <div class="col-xs-12 col-sm-6 col-md-3">
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
                 <a href="images/services/img_3.jpg">
-                    <img src="images/services/img_3.jpg" class="img img-responsive" alt=""/>
+                    <img src="images/services/img_3.jpg" class="img img-responsive table-bordered" alt=""/>
                 </a>
             </div>
-            <div class="col-xs-12 col-sm-6 col-md-3">
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
                 <a href="images/services/img_4.JPG">
-                    <img src="images/services/img_4.JPG" class="img img-responsive" alt=""/>
+                    <img src="images/services/img_4.JPG" class="img img-responsive table-bordered" alt=""/>
                 </a>
             </div>
         </div>

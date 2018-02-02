@@ -8,19 +8,19 @@ include "header.php";
             МОДЕРНИЗАЦИЯ МЕТАЛЛОРЕЖУЩЕГО ОБОРУДОВАНИЯ
         </div>
         <div class="row">
-            <div class="col-xs-12 col-sm-4 col-md-4">
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                 <a href="images/services/img_5.jpg">
-                    <img src="images/services/img_5.jpg" class="img img-responsive" alt=""/>
+                    <img src="images/services/img_5.jpg" class="img img-responsive table-bordered" alt=""/>
                 </a>
             </div>
-            <div class="col-xs-12 col-sm-4 col-md-4">
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                 <a href="images/services/img_6.jpg">
-                    <img src="images/services/img_6.jpg" class="img img-responsive" alt=""/>
+                    <img src="images/services/img_6.jpg" class="img img-responsive table-bordered" alt=""/>
                 </a>
             </div>
-            <div class="col-xs-12 col-sm-4 col-md-4">
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                 <a href="images/services/img_7.JPG">
-                    <img src="images/services/img_7.JPG" class="img img-responsive" alt=""/>
+                    <img src="images/services/img_7.JPG" class="img img-responsive table-bordered" alt=""/>
                 </a>
             </div>
         </div>

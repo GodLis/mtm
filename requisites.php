@@ -1,7 +1,17 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: hellga
- * Date: 27.01.2018
- * Time: 22:31
- */
+include "header.php";
+?>
+
+    <div class="content">
+
+        <div class="h1">
+            СТРАНИЦА НАХОДИТСЯ В ПРОЦЕСЕ РАЗРАБОТКИ
+        </div>
+
+        <br>
+
+    </div>
+
+<?php
+include "footer.php";
+?>

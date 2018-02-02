@@ -8,19 +8,19 @@ include "header.php";
             РЕМОНТ ЭЛЕКТРОННЫХ ПЛАТ
         </div>
         <div class="row">
-            <div class="col-xs-12 col-sm-4 col-md-4">
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                 <a href="images/services/img_8.jpg">
-                    <img src="images/services/img_8.jpg" class="img img-responsive" alt=""/>
+                    <img src="images/services/img_8.jpg" class="img img-responsive table-bordered" alt=""/>
                 </a>
             </div>
-            <div class="col-xs-12 col-sm-4 col-md-4">
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                 <a href="images/services/img_9.jpg">
-                    <img src="images/services/img_9.jpg" class="img img-responsive" alt=""/>
+                    <img src="images/services/img_9.jpg" class="img img-responsive table-bordered" alt=""/>
                 </a>
             </div>
-            <div class="col-xs-12 col-sm-4 col-md-4">
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                 <a href="images/services/img_10.jpg">
-                    <img src="images/services/img_10.jpg" class="img img-responsive" alt=""/>
+                    <img src="images/services/img_10.jpg" class="img img-responsive table-bordered" alt=""/>
                 </a>
             </div>
         </div>
