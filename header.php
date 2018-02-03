@@ -12,8 +12,9 @@
     <link href="fonts/glyphicons-halflings-regular.svg" rel="icon">
     <link href="fonts/glyphicons-halflings-regular.eot" rel="icon">
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
 
-
+    <script src="http://api-maps.yandex.ru/2.0/?load=package.full&mode=release&lang=ru-RU" type="text/javascript"></script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -119,15 +120,7 @@
 
                         <li><a href="our_works.php">наши работы</a></li>
 
-                        <li class="dropdown">
-                            <a class="dropdown-toggle" href="helpful_information_and_news.php">полезная информация
-                                <b class="caret"></b>
-                            </a>
-                            <ul class="dropdown-menu">
-                                <li><a href="helpful_information_and_news.php">новости</a></li>
-                                <li><a href="thematic_material.php">тематический материал</a></li>
-                            </ul>
-                        </li>
+                        <li><a href="news.php">полезная информация</a></li>
 
                     </ul>
                 </div>

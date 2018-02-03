@@ -22,5 +22,7 @@
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="js/bootstrap.min.js"></script>
 <script src="js/script.js"></script>
+<script src="js/validator.min.js"></script>
+<script src="js/form-scripts.js"></script>
 </body>
 </html>
