@@ -94,21 +94,22 @@ include "header.php";
                         <input type="text" class="form-control" id="name" placeholder="ФИО:" required data-error="Пожалуйста, заполните поле!">
                         <div class="help-block with-errors"></div>
                     </div>
-                    <div class="form-group col-sm-6">
+                    <div class="form-group col-sm-6 col-md-6 col-lg-6">
                         <input type="email" class="form-control" id="email" placeholder="Контактный Email:"
                                required data-error="Пожалуйста, заполните поле!">
                         <div class="help-block with-errors"></div>
                     </div>
-                    <div class="form-group col-sm-6">
-                        <input type="" class="form-control" id="phone" placeholder="Контактный телефон:"
+                    <div class="form-group col-sm-6 col-md-6 col-lg-6">
+                        <input class="form-control" id="phone" placeholder="Контактный телефон:"
                                required data-error="Пожалуйста, заполните поле!">
                         <div class="help-block with-errors"></div>
                     </div>
                     <div class="form-group">
-                        <textarea class="form-control fbformtextarea" rows="5" placeholder="Текст сообщения:"
+                        <textarea id="message" class="form-control" rows="5" placeholder="Текст сообщения:"
                                   required data-error="Пожалуйста, заполните поле!"></textarea>
                         <div class="help-block with-errors"></div>
                     </div>
+                    
                     <div class="form-group">
                         <div class="g-recaptcha" data-sitekey="6LdO8B0TAAAAAIiMFwghU-t5rLFpFW49qCWkAwXD"></div>
                     </div>

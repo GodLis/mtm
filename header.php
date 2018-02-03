@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>МирТехМаш</title>
-    <link href="images/mir_tekh_mash_icon.ico" rel="shortcut icon" type="image/x-icon">
+    <title>ООО МирТехМаш</title>
+    <link href="images/mir_tekh_mash_icon.png" rel="shortcut icon" type="image/x-icon">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -28,8 +28,8 @@
 <div class="container">
 
     <!--лого сайта-->
-    <div class="row center-block page-header">
-        <div class="col-md-8 col-sm-12">
+    <div class="row center-block page-header" style="margin-top: 0px">
+        <div class="col-sm-11 col-md-11 col-lg-8">
             <img src="images/mir_tekh_mash_logo.png" class="img img-responsive" alt="логотип"/>
         </div>
 
@@ -38,16 +38,16 @@
                 <img src="images/vk_2.png" class="img img-responsive nav_icon" onclick='location.href="http://vk.com/"'/>
             </button>
         </div>-->
-        <div class="col-md-1 col-sm-3 col-xs-3 social_icon">
+        <div class="col-sm-1 col-md-1 col-lg-1 social_icon">
             <img src="images/vk_2.png" class="img img-responsive" alt="логотип"/>
         </div>
-        <div class="col-md-1 col-sm-3 col-xs-3 social_icon">
+        <div class="col-sm-1 col-md-1 col-lg-1 social_icon">
             <img src="images/vk_2.png" class="img img-responsive" alt="логотип"/>
         </div>
-        <div class="col-md-1 col-sm-3 col-xs-3 social_icon">
+        <div class="col-sm-1 col-md-1 col-lg-1 social_icon">
             <img src="images/vk_2.png" class="img img-responsive" alt="логотип"/>
         </div>
-        <div class="col-md-1 col-sm-3 col-xs-3 social_icon">
+        <div class="col-sm-1 col-md-1 col-lg-1 social_icon">
             <img src="images/vk_2.png" class="img img-responsive" alt="логотип"/>
         </div>
     </div>

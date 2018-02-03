@@ -17,7 +17,11 @@ if (empty($_POST["email"])) {
 }
 
 // PHONE
-$phone = $_POST["phone"];
+if (empty($_POST["phone"])) {
+    $errorMSG .= "Phone is required";
+} else {
+    $phone = $_POST["phone"];
+}
 
 // MESSAGE
 if (empty($_POST["message"])) {
