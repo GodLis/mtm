@@ -32,10 +32,13 @@
             <img src="images/mir_tekh_mash_logo.png" class="img img-responsive" alt="логотип"/>
         </div>
 
-        <div class="col-md-1 col-sm-3 col-xs-3 social_icon">
+        <!--<div class="col-md-1 col-sm-3 col-xs-3 social_icon">
             <button>
                 <img src="images/vk_2.png" class="img img-responsive nav_icon" onclick='location.href="http://vk.com/"'/>
             </button>
+        </div>-->
+        <div class="col-md-1 col-sm-3 col-xs-3 social_icon">
+            <img src="images/vk_2.png" class="img img-responsive" alt="логотип"/>
         </div>
         <div class="col-md-1 col-sm-3 col-xs-3 social_icon">
             <img src="images/vk_2.png" class="img img-responsive" alt="логотип"/>

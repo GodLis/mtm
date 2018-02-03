@@ -10,7 +10,7 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_7.jpeg" class="img img-responsive"/>
+                <img src="images/machines/img_7.jpeg" class="img img-responsive table-bordered"/>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
@@ -52,7 +52,7 @@ include "header.php";
                     </table>
 
                     <br>
-                    <form action='files/3_CU402%20-%20CU502.docx'>
+                    <form action='files/3.docx'>
                         <button class="btn btn-success" type="submit">Скачать техническую документацию</button>
                     </form>
                     <br>
@@ -64,7 +64,7 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_8.jpg" class="img img-responsive"/>
+                <img src="images/machines/img_8.jpg" class="img img-responsive table-bordered"/>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
@@ -108,7 +108,7 @@ include "header.php";
                     </table>
                     <br>
 
-                    <form action='files/4_CU582%20-%20CU662.docx'>
+                    <form action='files/4.docx'>
                         <button class="btn btn-success" type="submit">Скачать техническую документацию</button>
                     </form>
                     <br>
@@ -120,7 +120,7 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_9.jpg" class="img img-responsive"/>
+                <img src="images/machines/img_9.jpg" class="img img-responsive table-bordered"/>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
@@ -179,7 +179,7 @@ include "header.php";
                             </tbody>
                         </table>
 
-                    <form action='files/5_CU802%20-%20CU902.docx'>
+                    <form action='files/5.docx'>
                         <button class="btn btn-success" type="submit">Скачать техническую документацию</button>
                     </form>
                     <br>
@@ -191,7 +191,7 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_10.jpg" class="img img-responsive"/>
+                <img src="images/machines/img_10.jpg" class="img img-responsive table-bordered"/>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
@@ -231,7 +231,7 @@ include "header.php";
                     </table>
                     <br>
 
-                    <form action='files/6_CU832%20-%20CU932.docx'>
+                    <form action='files/6.docx'>
                         <button class="btn btn-success" type="submit">Скачать техническую документацию</button>
                     </form>
                     <br>
@@ -243,7 +243,7 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_11.jpg" class="img img-responsive"/>
+                <img src="images/machines/img_11.jpg" class="img img-responsive table-bordered"/>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
@@ -298,7 +298,7 @@ include "header.php";
                     </table>
                     <br>
 
-                    <form action='files/7_CU1032%20-%20CU1132.docx'>
+                    <form action='files/7.docx'>
                         <button class="btn btn-success" type="submit">Скачать техническую документацию</button>
                     </form>
                     <br>
@@ -310,7 +310,7 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_12.jpg" class="img img-responsive"/>
+                <img src="images/machines/img_12.jpg" class="img img-responsive table-bordered"/>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
@@ -354,7 +354,7 @@ include "header.php";
                     </table>
                     <br>
 
-                    <form action='files/8_CU1232%20-%20CU1332.docx'>
+                    <form action='files/8.docx'>
                         <button class="btn btn-success" type="submit">Скачать техническую документацию</button>
                     </form>
                     <br>

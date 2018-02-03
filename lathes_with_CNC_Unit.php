@@ -98,7 +98,7 @@ include "header.php";
                     </div>
 
                     <br>
-                    <form action='files/1_16А20Ф3.docx'>
+                    <form action='files/1.docx'>
                         <button class="btn btn-success" type="submit">Скачать техническую документацию</button>
                     </form>
                     <br>
@@ -110,7 +110,7 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_2.jpg" class="img img-responsive"/>
+                <img src="images/machines/img_2.jpg" class="img img-responsive table-bordered"/>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
@@ -225,7 +225,7 @@ include "header.php";
                     </div>
 
                     <br>
-                    <form action='files/2_16Б16.doc'>
+                    <form action='files/2.doc'>
                         <button class="btn btn-success" type="submit">Скачать техническую документацию</button>
                     </form>
                     <br>
@@ -239,7 +239,7 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_3.jpg" class="img img-responsive"/>
+                <img src="images/machines/img_3.jpg" class="img img-responsive table-bordered"/>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
@@ -303,7 +303,7 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_4.jpg" class="img img-responsive"/>
+                <img src="images/machines/img_4.jpg" class="img img-responsive table-bordered"/>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
@@ -371,7 +371,7 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_5.jpg" class="img img-responsive"/>
+                <img src="images/machines/img_5.jpg" class="img img-responsive table-bordered"/>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
@@ -431,7 +431,7 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_6.jpg" class="img img-responsive"/>
+                <img src="images/machines/img_6.jpg" class="img img-responsive table-bordered"/>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
