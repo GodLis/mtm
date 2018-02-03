@@ -31,7 +31,11 @@
     }
 }
 
-@media (max-width: 767px) {  }
+@media (max-width: 767px) {
+    div.row.center-block.page-header {
+        display: none;
+    }
+}
 
 @media (max-width: 480px) {
     div.content {

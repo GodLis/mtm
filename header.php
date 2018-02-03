@@ -73,7 +73,7 @@
                     <ul class="nav navbar-nav">
 
                         <li class="dropdown">
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="index.php">визитка
+                            <a class="dropdown-toggle" href="index.php">визитка
                                 <b class="caret"></b>
                             </a>
                             <ul class="dropdown-menu">
@@ -113,18 +113,18 @@
                             </ul>
                         </li>
 
-                        <li><a href="accessories_for_drives_and_CNC.php">комплектующие к приводам, чпу</a></li>
+                        <li><a href="repair_of_electronic_boards.php">комплектующие к приводам, чпу</a></li>
 
                         <li><a href="storehouse.php">склад</a></li>
 
                         <li><a href="our_works.php">наши работы</a></li>
 
                         <li class="dropdown">
-                            <a class="dropdown-toggle" href="helpful_information.php">полезная информация
+                            <a class="dropdown-toggle" href="helpful_information_and_news.php">полезная информация
                                 <b class="caret"></b>
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a href="news.php">новости</a></li>
+                                <li><a href="helpful_information_and_news.php">новости</a></li>
                                 <li><a href="thematic_material.php">тематический материал</a></li>
                             </ul>
                         </li>

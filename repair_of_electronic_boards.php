@@ -61,7 +61,7 @@ include "header.php";
         <br>
 
         <div class="help-block">
-            30.07.2015г.Добавлены позиции по разделу "Устройство ЧПУ МС-2109"
+            30.07.2018г.Добавлены позиции по разделу "Устройство ЧПУ МС-2109"
         </div>
         <div class="help-block">
             30.07.2015г.Добавлены позиции по разделу "Устройство ЧПУ НЦ-31"
@@ -70,7 +70,7 @@ include "header.php";
 
         <br>
         <div class="text-success text-right">
-            Обновлено 19.07.2017г.
+            <b>Обновлено 19.07.2017г.</b>
         </div>
 
         <table class="table table-responsive">

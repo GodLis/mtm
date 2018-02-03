@@ -12,7 +12,7 @@
 
 
 <div class="panel-footer coll-md-12 text-info center-block text-center" id="footer">
-    ООО "МирТехМаш" 2018
+    <b>ООО "МирТехМаш" 2018</b>
 </div>
 
 </div>
