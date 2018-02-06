@@ -55,7 +55,9 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/warehouse/img_1.JPG" class="img img-responsive table-bordered"/>
+                <div class="zoom">
+                    <img src="images/warehouse/img_1.JPG" class="img img-responsive table-bordered"/>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
@@ -63,7 +65,8 @@ include "header.php";
                 <br>
                 <i>есть в наличии, кол-во : 2 шт</i>
                 <hr>
-                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me1">Показать подробную информацию</button>
+                <button class="btn btn-info table-responsive" data-toggle="collapse" data-target="#hide-me1">
+                    Показать подробную информацию</button>
                 <div id="hide-me1" class="collapse">
                     <br>
                     <table class="table table-responsive">
@@ -99,42 +102,65 @@ include "header.php";
                     </div>
                     <br>
 
-                    <button class="btn btn-success" data-toggle="collapse" data-target="#hide-me1_1">Показать другие изображения</button>
+                    <button class="btn btn-success table-responsive" data-toggle="collapse" data-target="#hide-me1_1">
+                        Показать другие изображения</button>
                     <div id="hide-me1_1" class="collapse">
                         <br>
                         <div class="row">
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_1_2.JPG" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_1_2.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_1_3.JPG" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_1_3.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_1_4.JPG" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_1_4.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_1_5.JPG" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_1_5.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_1_6.JPG" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_1_6.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_1_7.JPG" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_1_7.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_1_8.JPG" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_1_8.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_1_9.JPG" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_1_9.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_1_10.JPG" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_1_10.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_1_11.jpg" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_1_11.jpg" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_1_12.jpg" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_1_12.jpg" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
                         </div>
                         <br>
@@ -151,7 +177,9 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/warehouse/img_2.jpg" class="img img-responsive table-bordered"/>
+                <div class="zoom">
+                    <img src="images/warehouse/img_2.jpg" class="img img-responsive table-bordered"/>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
@@ -159,7 +187,8 @@ include "header.php";
                 <br>
                 <i>есть в наличии.</i>
                 <hr>
-                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me2">Показать подробную информацию</button>
+                <button class="btn btn-info table-responsive" data-toggle="collapse" data-target="#hide-me2">
+                    Показать подробную информацию</button>
                 <div id="hide-me2" class="collapse">
                     <br>
                     <table class="table table-responsive">
@@ -196,21 +225,30 @@ include "header.php";
                     </div>
                     <br>
 
-                    <button class="btn btn-success" data-toggle="collapse" data-target="#hide-me2_1">Показать другие изображения</button>
+                    <button class="btn btn-success table-responsive" data-toggle="collapse" data-target="#hide-me2_1">
+                        Показать другие изображения</button>
                     <div id="hide-me2_1" class="collapse">
                         <br>
                         <div class="row">
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_2_2.jpg" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_2_2.jpg" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_2_3.jpg" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_2_3.jpg" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_2_4.jpg" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_2_4.jpg" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_2_5.jpg" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_2_5.jpg" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
                         </div>
                         <br>
@@ -223,7 +261,9 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/warehouse/img_3.jpg" class="img img-responsive table-bordered"/>
+                <div class="zoom">
+                    <img src="images/warehouse/img_3.jpg" class="img img-responsive table-bordered"/>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
@@ -231,7 +271,8 @@ include "header.php";
                 <br>
                 <i>есть в наличии, кол-во : 4шт.</i>
                 <hr>
-                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me3">Показать подробную информацию</button>
+                <button class="btn btn-info table-responsive" data-toggle="collapse" data-target="#hide-me3">
+                    Показать подробную информацию</button>
                 <div id="hide-me3" class="collapse">
                     <br>
                     <table class="table table-responsive">
@@ -263,12 +304,15 @@ include "header.php";
                     </div>
                     <br>
 
-                    <button class="btn btn-success" data-toggle="collapse" data-target="#hide-me3_1">Показать другие изображения</button>
+                    <button class="btn btn-success table-responsive" data-toggle="collapse" data-target="#hide-me3_1">
+                        Показать другие изображения</button>
                     <div id="hide-me3_1" class="collapse">
                         <br>
                         <div class="row">
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_3_2.jpg" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_3_2.jpg" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
                         </div>
                         <br>
@@ -281,7 +325,9 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/warehouse/img_4.jpg" class="img img-responsive table-bordered"/>
+                <div class="zoom">
+                    <img src="images/warehouse/img_4.jpg" class="img img-responsive table-bordered"/>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
@@ -289,7 +335,8 @@ include "header.php";
                 <br>
                 <i>есть в наличии, кол-во : 2 шт.</i>
                 <hr>
-                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me4">Показать подробную информацию</button>
+                <button class="btn btn-info table-responsive" data-toggle="collapse" data-target="#hide-me4">
+                    Показать подробную информацию</button>
                 <div id="hide-me4" class="collapse">
                     <br>
                     <table class="table table-responsive">
@@ -321,36 +368,55 @@ include "header.php";
                     </div>
                     <br>
 
-                    <button class="btn btn-success" data-toggle="collapse" data-target="#hide-me4_1">Показать другие изображения</button>
+                    <button class="btn btn-success table-responsive" data-toggle="collapse" data-target="#hide-me4_1">
+                        Показать другие изображения</button>
                     <div id="hide-me4_1" class="collapse">
                         <br>
                         <div class="row">
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_4_2.jpg" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_4_2.jpg" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_4_3.jpg" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_4_3.jpg" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_4_4.jpg" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_4_4.jpg" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_4_5.jpg" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_4_5.jpg" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_4_6.jpg" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_4_6.jpg" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_4_7.jpg" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_4_7.jpg" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_4_9.jpg" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_4_9.jpg" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_4_10.jpg" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_4_10.jpg" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_4_11.jpg" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_4_11.jpg" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
                         </div>
                         <br>
@@ -363,7 +429,9 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/warehouse/img_5.jpg" class="img img-responsive table-bordered"/>
+                <div class="zoom">
+                    <img src="images/warehouse/img_5.jpg" class="img img-responsive table-bordered"/>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
@@ -371,7 +439,8 @@ include "header.php";
                 <br>
                 <i>есть в наличии.</i>
                 <hr>
-                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me5">Показать подробную информацию</button>
+                <button class="btn btn-info table-responsive" data-toggle="collapse" data-target="#hide-me5">
+                    Показать подробную информацию</button>
                 <div id="hide-me5" class="collapse">
                     <br>
                     <table class="table table-responsive">
@@ -407,8 +476,10 @@ include "header.php";
                     <div id="hide-me5_1" class="collapse">
                         <br>
                         <div class="row">
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_5_2.jpg" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_5_2.jpg" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
                         </div>
                         <br>
@@ -421,7 +492,9 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/warehouse/img_6.jpg" class="img img-responsive table-bordered"/>
+                <div class="zoom">
+                    <img src="images/warehouse/img_6.jpg" class="img img-responsive table-bordered"/>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
@@ -429,7 +502,8 @@ include "header.php";
                 <br>
                 <i>есть в наличии.</i>
                 <hr>
-                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me6">Показать подробную информацию</button>
+                <button class="btn btn-info table-responsive" data-toggle="collapse" data-target="#hide-me6">
+                    Показать подробную информацию</button>
                 <div id="hide-me6" class="collapse">
                     <br>
                     <table class="table table-responsive">
@@ -461,12 +535,15 @@ include "header.php";
                     </div>
                     <br>
 
-                    <button class="btn btn-success" data-toggle="collapse" data-target="#hide-me6_1">Показать другие изображения</button>
+                    <button class="btn btn-success table-responsive" data-toggle="collapse" data-target="#hide-me6_1">
+                        Показать другие изображения</button>
                     <div id="hide-me6_1" class="collapse">
                         <br>
                         <div class="row">
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                                <img src="images/warehouse/img_6_2.jpg" class="img img-responsive table-bordered" alt=""/>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/warehouse/img_6_2.jpg" class="img img-responsive table-bordered" alt=""/>
+                                </div>
                             </div>
                         </div>
                         <br>
@@ -479,7 +556,9 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/warehouse/img_7.jpg" class="img img-responsive table-bordered"/>
+                <div class="zoom">
+                    <img src="images/warehouse/img_7.jpg" class="img img-responsive table-bordered"/>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
@@ -487,7 +566,8 @@ include "header.php";
                 <br>
                 <i>есть в наличии.</i>
                 <hr>
-                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me7">Показать подробную информацию</button>
+                <button class="btn btn-info table-responsive" data-toggle="collapse" data-target="#hide-me7">
+                    Показать подробную информацию</button>
                 <div id="hide-me7" class="collapse">
                     <br>
                     <table class="table table-responsive">

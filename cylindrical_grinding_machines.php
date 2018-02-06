@@ -185,7 +185,7 @@ include "header.php";
                         <div class="row">
                             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                 <div class="zoom">
-                                    <img src="images/warehouse/img_6_2.jpg" class="img img-responsive table-bordered" alt=""/>
+                                    <img src="images/machines/img_21_2.jpg" class="img img-responsive table-bordered" alt=""/>
                                 </div>
                             </div>
                         </div>
