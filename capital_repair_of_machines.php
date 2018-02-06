@@ -9,24 +9,24 @@ include "header.php";
         </div>
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                <a href="images/services/img_11.JPG">
+                <div class="zoom">
                     <img src="images/services/img_11.JPG" class="img img-responsive table-bordered" alt=""/>
-                </a>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                <a href="images/services/img_12.jpg">
+                <div class="zoom">
                     <img src="images/services/img_12.jpg" class="img img-responsive table-bordered" alt=""/>
-                </a>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                <a href="images/services/img_13.jpg">
+                <div class="zoom">
                     <img src="images/services/img_13.jpg" class="img img-responsive table-bordered" alt=""/>
-                </a>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                <a href="images/services/img_14.JPG">
+                <div class="zoom">
                     <img src="images/services/img_14.JPG" class="img img-responsive table-bordered" alt=""/>
-                </a>
+                </div>
             </div>
         </div>
         <br>
@@ -47,14 +47,15 @@ include "header.php";
         </div>
         <br>
         <div>
-            Примеры сделанных станков специалистами нашей организации можно посмотреть в рубрике
+            Примеры сделанных станков специалистами нашей организации можно посмотреть в рубрике:
         </div>
         <br>
         <div style="text-align: center">
             <b><a href="our_works.php">
-                    НАШИ РАБОТЫ
+                    <u>НАШИ РАБОТЫ</u>
                 </a></b>
         </div>
+        <br>
         <br>
     </div>
 

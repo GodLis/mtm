@@ -14,6 +14,23 @@
     <link href="css/style.css" rel="stylesheet">
     <link href="css/animate.css" rel="stylesheet">
 
+    <style>
+        .zoom:after,
+        .zoom1:after {
+            content:'';
+            display:block;
+            width:33px;
+            height:33px;
+            position:absolute;
+            top:0;
+            right:0;
+            background:url(http://bootstraptema.ru/plugins/2016/zoom/zoom.png);
+        }
+    </style>
+
+    <script src="http://bootstraptema.ru/plugins/jquery/jquery-1.11.3.min.js"></script>
+    <script src="http://bootstraptema.ru/plugins/2016/zoom/zoom.js"></script>
+
     <script src="http://api-maps.yandex.ru/2.0/?load=package.full&mode=release&lang=ru-RU" type="text/javascript"></script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

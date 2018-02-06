@@ -10,13 +10,16 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_13.JPG" class="img img-responsive table-bordered"/>
+                <div class="zoom">
+                    <img src="images/machines/img_13.JPG" class="img img-responsive table-bordered"/>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
                 <b>Широкоуниверсальный фрезерный станок 6Т83Ш</b>
                 <hr>
-                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me1">Показать подробную информацию</button>
+                <button class="btn btn-info table-responsive" data-toggle="collapse" data-target="#hide-me1"
+                >Показать подробную информацию</button>
                 <div id="hide-me1" class="collapse">
                     <br>
                     <table class="table table-responsive">
@@ -200,10 +203,96 @@ include "header.php";
                             </tr>
                         </tbody>
                     </table>
+                    <br>
+
+                    <button class="btn btn-success table-responsive" data-toggle="collapse" data-target="#hide-me1_1">
+                        Показать другие изображения</button>
+                    <div id="hide-me1_1" class="collapse">
+                        <br>
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/machines/img_13_2.jpg" class="img img-responsive table-bordered" alt=""/>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/machines/img_13_3.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/machines/img_13_4.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/machines/img_13_5.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/machines/img_13_6.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/machines/img_13_7.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/machines/img_13_8.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/machines/img_13_9.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/machines/img_13_10.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/machines/img_13_11.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/machines/img_13_12.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/machines/img_13_13.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/machines/img_13_14.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/machines/img_13_15.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/machines/img_13_16.JPG" class="img img-responsive table-bordered" alt=""/>
+                                </div>
+                            </div>
+                        </div>
+                        <br>
+                    </div>
+                    <br>
 
                     <br>
                     <form action='files/9.pdf'>
-                        <button class="btn btn-success" type="submit">Скачать техническую документацию</button>
+                        <button class="btn btn-danger table-responsive" type="submit">Скачать техническую документацию</button>
                     </form>
                     <br>
                 </div>
@@ -214,19 +303,23 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_14.jpeg" class="img img-responsive table-bordered"/>
+                <div class="zoom">
+                    <img src="images/machines/img_14.jpeg" class="img img-responsive table-bordered"/>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
                 <b>Вертикально-фрезерный станок ОРША Ф32У</b>
                 <hr>
-                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me2">Показать подробную информацию</button>
+                <button class="btn btn-info table-responsive" data-toggle="collapse" data-target="#hide-me2"
+                >Показать подробную информацию</button>
                 <div id="hide-me2" class="collapse">
                     <br>
                     <table class="table table-responsive">
                         <thead>
                         <tr>
                             <th style="text-align: center">Производитель:</th>
+                            <td></td>
                         </tr>
                         </thead>
 
@@ -262,6 +355,7 @@ include "header.php";
                         <thead>
                         <tr>
                             <th style="text-align: center">Оборудование:</th>
+                            <td></td>
                         </tr>
                         </thead>
 
@@ -389,19 +483,23 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_15.jpg" class="img img-responsive table-bordered"/>
+                <div class="zoom">
+                    <img src="images/machines/img_15.jpg" class="img img-responsive table-bordered"/>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
                 <b>ГОРИЗОНТАЛЬНО-ФРЕЗЕРНЫЙ СТАНОК ОРША Ф32Г</b>
                 <hr>
-                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me3">Показать подробную информацию</button>
+                <button class="btn btn-info table-responsive" data-toggle="collapse" data-target="#hide-me3">
+                    Показать подробную информацию</button>
                 <div id="hide-me3" class="collapse">
                     <br>
                     <table class="table table-responsive">
                         <thead>
                         <tr>
                             <th style="text-align: center">Производитель:</th>
+                            <td></td>
                         </tr>
                         </thead>
 
@@ -437,6 +535,7 @@ include "header.php";
                         <thead>
                         <tr>
                             <th style="text-align: center">Оборудование:</th>
+                            <td></td>
                         </tr>
                         </thead>
 
@@ -547,19 +646,23 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_16.jpg" class="img img-responsive table-bordered"/>
+                <div class="zoom">
+                    <img src="images/machines/img_16.jpg" class="img img-responsive table-bordered"/>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
                 <b>ШИРОКОУНИВЕРСАЛЬНЫЙ ФРЕЗЕРНЫЙ СТАНОК ОРША Ф32Ш</b>
                 <hr>
-                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me4">Показать подробную информацию</button>
+                <button class="btn btn-info table-responsive" data-toggle="collapse" data-target="#hide-me4">
+                    Показать подробную информацию</button>
                 <div id="hide-me4" class="collapse">
                     <br>
                     <table class="table table-responsive">
                         <thead>
                         <tr>
                             <th style="text-align: center">Производитель:</th>
+                            <td></td>
                         </tr>
                         </thead>
 
@@ -595,6 +698,7 @@ include "header.php";
                         <thead>
                         <tr>
                             <th style="text-align: center">Оборудование:</th>
+                            <td></td>
                         </tr>
                         </thead>
 

@@ -9,31 +9,31 @@ include "header.php";
         </div>
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                <a href="images/services/img_1.jpg">
+                <div class="zoom">
                     <img src="images/services/img_1.jpg" class="img img-responsive table-bordered" alt=""/>
-                </a>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                <a href="images/services/img_2.JPG">
+                <div class="zoom">
                     <img src="images/services/img_2.JPG" class="img img-responsive table-bordered" alt=""/>
-                </a>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                <a href="images/services/img_3.jpg">
+                <div class="zoom">
                     <img src="images/services/img_3.jpg" class="img img-responsive table-bordered" alt=""/>
-                </a>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                <a href="images/services/img_4.JPG">
+                <div class="zoom">
                     <img src="images/services/img_4.JPG" class="img img-responsive table-bordered" alt=""/>
-                </a>
+                </div>
             </div>
         </div>
         <br>
 
         <div>
             <b>В состав комплекта по модернизации станка входит :</b>
-            <ul>
+            <ul style="text-align: center">
                 <li>
                     УЧПУ NC-210(производство Балт-Систем, Санкт-Петербург).
                 </li>
@@ -64,9 +64,9 @@ include "header.php";
             </ul>
         </div>
 
-        <div class="text-info">
-            Дополнительно : поставляется по договоренности
-            <ul>
+        <div>
+            <b>Дополнительно : поставляется по договоренности</b>
+            <ul style="text-align:  center">
                 <li>
                     Новая гусеница (кабель канал) для укладки движущихся кабелей и шлангов.
                 </li>
@@ -81,7 +81,7 @@ include "header.php";
         <br>
 
         <div>
-            Комплект может быть изготовлен для работы станка с револьверной головкой УГ9326, Duplomatic, Pragati.
+            <b>Комплект может быть изготовлен для работы станка с револьверной головкой УГ9326, Duplomatic, Pragati.</b>
         </div>
         <br>
 

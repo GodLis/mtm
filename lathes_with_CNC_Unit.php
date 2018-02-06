@@ -14,19 +14,23 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_1.jpg" class="img img-responsive table-bordered"/>
+                <div class="zoom">
+                    <img src="images/machines/img_1.jpg" class="img img-responsive table-bordered"/>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
                 <b>ТОКАРНО-ВИНТОРЕЗНЫЙ СТАНОК 16А20Ф3</b>
                 <hr>
-                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me1">Показать подробную информацию</button>
+                <button class="btn btn-info table-responsive" data-toggle="collapse" data-target="#hide-me1">
+                    Показать подробную информацию</button>
                 <div id="hide-me1" class="collapse">
                     <br>
                     <table class="table table-responsive">
                         <thead>
                         <tr>
                             <th style="text-align: center">Производитель:</th>
+                            <td></td>
                         </tr>
                         </thead>
 
@@ -62,6 +66,7 @@ include "header.php";
                         <thead>
                             <tr>
                                 <th style="text-align: center">Оборудование:</th>
+                                <td></td>
                             </tr>
                         </thead>
 
@@ -99,7 +104,7 @@ include "header.php";
 
                     <br>
                     <form action='files/1.docx'>
-                        <button class="btn btn-success" type="submit">Скачать техническую документацию</button>
+                        <button class="btn btn-danger table-responsive" type="submit">Скачать техническую документацию</button>
                     </form>
                     <br>
                 </div>
@@ -110,19 +115,23 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_2.jpg" class="img img-responsive table-bordered"/>
+                <div class="zoom">
+                    <img src="images/machines/img_2.jpg" class="img img-responsive table-bordered"/>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
                 <b>ТОКАРНО-ВИНТОРЕЗНЫЙ СТАНОК 16Б16</b>
                 <hr>
-                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me2">Показать подробную информацию</button>
+                <button class="btn btn-info table-responsive" data-toggle="collapse" data-target="#hide-me2">
+                    Показать подробную информацию</button>
                 <div id="hide-me2" class="collapse">
                     <br>
                     <table class="table table-responsive">
                         <thead>
                         <tr>
                             <th style="text-align: center">Производитель:</th>
+                            <td></td>
                         </tr>
                         </thead>
 
@@ -225,8 +234,29 @@ include "header.php";
                     </div>
 
                     <br>
+
+                    <button class="btn btn-success table-responsive" data-toggle="collapse" data-target="#hide-me2_2">
+                        Показать другие изображения</button>
+                    <div id="hide-me2_2" class="collapse">
+                        <br>
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/machines/img_2_2.jpg" class="img img-responsive table-bordered" alt=""/>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <div class="zoom">
+                                    <img src="images/machines/img_2_3.jpg" class="img img-responsive table-bordered" alt=""/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <br>
+
                     <form action='files/2.doc'>
-                        <button class="btn btn-success" type="submit">Скачать техническую документацию</button>
+                        <button class="btn btn-danger table-responsive" type="submit">Скачать техническую документацию</button>
                     </form>
                     <br>
                 </div>
@@ -239,19 +269,23 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_3.jpg" class="img img-responsive table-bordered"/>
+                <div class="zoom">
+                    <img src="images/machines/img_3.jpg" class="img img-responsive table-bordered"/>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
                 <b>C832C</b>
                 <hr>
-                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me3">Показать подробную информацию</button>
+                <button class="btn btn-info table-responsive" data-toggle="collapse" data-target="#hide-me3">
+                    Показать подробную информацию</button>
                 <div id="hide-me3" class="collapse">
                     <br>
                     <table class="table table-responsive">
                         <thead>
                         <tr>
                             <th style="text-align: center">Производитель:</th>
+                            <td></td>
                         </tr>
                         </thead>
 
@@ -283,6 +317,7 @@ include "header.php";
                         <thead>
                         <tr>
                             <th style="text-align: center">Оборудование:</th>
+                            <td></td>
                         </tr>
                         </thead>
 
@@ -303,19 +338,23 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_4.jpg" class="img img-responsive table-bordered"/>
+                <div class="zoom">
+                    <img src="images/machines/img_4.jpg" class="img img-responsive table-bordered"/>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
                 <b>C932C</b>
                 <hr>
-                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me4">Показать подробную информацию</button>
+                <button class="btn btn-info table-responsive" data-toggle="collapse" data-target="#hide-me4">
+                    Показать подробную информацию</button>
                 <div id="hide-me4" class="collapse">
                     <br>
                     <table class="table table-responsive">
                         <thead>
                         <tr>
                             <th style="text-align: center">Производитель:</th>
+                            <td></td>
                         </tr>
                         </thead>
 
@@ -351,6 +390,7 @@ include "header.php";
                         <thead>
                         <tr>
                             <th style="text-align: center">Оборудование:</th>
+                            <td></td>
                         </tr>
                         </thead>
 
@@ -371,19 +411,23 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_5.jpg" class="img img-responsive table-bordered"/>
+                <div class="zoom">
+                    <img src="images/machines/img_5.jpg" class="img img-responsive table-bordered"/>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
                 <b>C1032C</b>
                 <hr>
-                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me5">Показать подробную информацию</button>
+                <button class="btn btn-info table-responsive" data-toggle="collapse" data-target="#hide-me5"
+                >Показать подробную информацию</button>
                 <div id="hide-me5" class="collapse">
                     <br>
                     <table class="table table-responsive">
                         <thead>
                         <tr>
                             <th style="text-align: center">Производитель:</th>
+                            <td></td>
                         </tr>
                         </thead>
 
@@ -411,6 +455,7 @@ include "header.php";
                         <thead>
                         <tr>
                             <th style="text-align: center">Оборудование:</th>
+                            <td></td>
                         </tr>
                         </thead>
 
@@ -431,19 +476,23 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_6.jpg" class="img img-responsive table-bordered"/>
+                <div class="zoom">
+                    <img src="images/machines/img_6.jpg" class="img img-responsive table-bordered"/>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
                 <b>C1132C</b>
                 <hr>
-                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me6">Показать подробную информацию</button>
+                <button class="btn btn-info table-responsive" data-toggle="collapse" data-target="#hide-me6">
+                    Показать подробную информацию</button>
                 <div id="hide-me6" class="collapse">
                     <br>
                     <table class="table table-responsive">
                         <thead>
                         <tr>
                             <th style="text-align: center">Производитель:</th>
+                            <td></td>
                         </tr>
                         </thead>
 
@@ -475,6 +524,7 @@ include "header.php";
                         <thead>
                         <tr>
                             <th style="text-align: center">Оборудование:</th>
+                            <td></td>
                         </tr>
                         </thead>
 

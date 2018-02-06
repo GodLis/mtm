@@ -10,13 +10,18 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_17.jpg" class="img img-responsive table-bordered"/>
+                <div class="zoom">
+                    <img src="images/machines/img_17.jpg" class="img img-responsive table-bordered"/>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
                 <b>ШПХ 32.11М</b>
+                <br>
+                <i>Болгария</i>
                 <hr>
-                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me1">Показать подробную информацию</button>
+                <button class="btn btn-info table-responsive" data-toggle="collapse" data-target="#hide-me1">
+                    Показать подробную информацию</button>
                 <div id="hide-me1" class="collapse">
                     <br>
                     <table class="table table-responsive">
@@ -55,6 +60,7 @@ include "header.php";
                         <thead>
                         <tr>
                             <th style="text-align: center">Оборудование:</th>
+                            <td></td>
                         </tr>
                         </thead>
 
@@ -79,9 +85,11 @@ include "header.php";
                     </div>
                     <br>
 
-                    <div>
+
+                    <div class="zoom">
                         <img src="images/machines/img_17_dop.jpg" class="img img-responsive table-bordered" alt=""/>
                     </div>
+
                     <br>
 
                     <div>
@@ -199,7 +207,7 @@ include "header.php";
                     <br>
 
                     <form action='files/10.docx'>
-                        <button class="btn btn-success" type="submit">Скачать техническую документацию</button>
+                        <button class="btn btn-danger table-responsive" type="submit">Скачать техническую документацию</button>
                     </form>
                     <br>
                 </div>
@@ -210,13 +218,18 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_18.jpg" class="img img-responsive table-bordered"/>
+                <div class="zoom">
+                    <img src="images/machines/img_18.jpg" class="img img-responsive table-bordered"/>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
                 <b>ШПХ 31.63</b>
+                <br>
+                <i>Болгария</i>
                 <hr>
-                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me2">Показать подробную информацию</button>
+                <button class="btn btn-info table-responsive" data-toggle="collapse" data-target="#hide-me2">
+                    Показать подробную информацию</button>
                 <div id="hide-me2" class="collapse">
                     <br>
                     <table class="table table-responsive">
@@ -279,7 +292,7 @@ include "header.php";
                     </div>
                     <br>
 
-                    <div>
+                    <div class="zoom">
                         <img src="images/machines/img_17_dop.jpg" class="img img-responsive table-bordered" alt=""/>
                     </div>
                     <br>
@@ -399,7 +412,7 @@ include "header.php";
                     <br>
 
                     <form action='files/11.docx'>
-                        <button class="btn btn-success" type="submit">Скачать техническую документацию</button>
+                        <button class="btn btn-danger table-responsive" type="submit">Скачать техническую документацию</button>
                     </form>
                     <br>
                 </div>
@@ -410,13 +423,18 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_19.jpg" class="img img-responsive table-bordered"/>
+                <div class="zoom">
+                    <img src="images/machines/img_19.jpg" class="img img-responsive table-bordered"/>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
                 <b>ШПХ 41.81</b>
+                <br>
+                <i>Болгария</i>
                 <hr>
-                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me3">Показать подробную информацию</button>
+                <button class="btn btn-info table-responsive" data-toggle="collapse" data-target="#hide-me3"
+                >Показать подробную информацию</button>
                 <div id="hide-me3" class="collapse">
                     <br>
                     <table class="table table-responsive">
@@ -455,6 +473,7 @@ include "header.php";
                         <thead>
                         <tr>
                             <th style="text-align: center">Оборудование:</th>
+                            <td></td>
                         </tr>
                         </thead>
 
@@ -479,7 +498,7 @@ include "header.php";
                     </div>
                     <br>
 
-                    <div>
+                    <div class="zoom">
                         <img src="images/machines/img_17_dop.jpg" class="img img-responsive table-bordered" alt=""/>
                     </div>
                     <br>
@@ -616,7 +635,7 @@ include "header.php";
                     <br>
 
                     <form action='files/12.doc'>
-                        <button class="btn btn-success" type="submit">Скачать техническую документацию</button>
+                        <button class="btn btn-danger table-responsive" type="submit">Скачать техническую документацию</button>
                     </form>
                     <br>
                 </div>
@@ -627,13 +646,18 @@ include "header.php";
 
         <div class="row table-bordered" style="padding: 10px">
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
-                <img src="images/machines/img_20.jpg" class="img img-responsive table-bordered"/>
+                <div class="zoom">
+                    <img src="images/machines/img_20.jpg" class="img img-responsive table-bordered"/>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
                 <hr>
                 <b>ШПХ 51.81</b>
+                <br>
+                <i>Болгария</i>
                 <hr>
-                <button class="btn btn-info" data-toggle="collapse" data-target="#hide-me4">Показать подробную информацию</button>
+                <button class="btn btn-info table-responsive" data-toggle="collapse" data-target="#hide-me4">
+                    Показать подробную информацию</button>
                 <div id="hide-me4" class="collapse">
                     <br>
                     <table class="table table-responsive">
@@ -672,6 +696,7 @@ include "header.php";
                         <thead>
                         <tr>
                             <th style="text-align: center">Оборудование:</th>
+                            <td></td>
                         </tr>
                         </thead>
 
@@ -696,7 +721,7 @@ include "header.php";
                     </div>
                     <br>
 
-                    <div>
+                    <div class="zoom">
                         <img src="images/machines/img_17_dop.jpg" class="img img-responsive table-bordered" alt=""/>
                     </div>
                     <br>
@@ -833,7 +858,7 @@ include "header.php";
                     <br>
 
                     <form action='files/13.doc'>
-                        <button class="btn btn-success" type="submit">Скачать техническую документацию</button>
+                        <button class="btn btn-danger table-responsive" type="submit">Скачать техническую документацию</button>
                     </form>
                     <br>
                 </div>

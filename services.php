@@ -14,7 +14,7 @@ include "header.php";
         </div>
         <br>
         <div style="text-align: center">
-            Разработка и внедрение :
+            <b>Разработка и внедрение:</b>
         </div>
         <br>
         <div>

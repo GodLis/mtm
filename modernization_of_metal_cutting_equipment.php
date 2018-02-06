@@ -9,19 +9,19 @@ include "header.php";
         </div>
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                <a href="images/services/img_5.jpg">
+                <div class="zoom">
                     <img src="images/services/img_5.jpg" class="img img-responsive table-bordered" alt=""/>
-                </a>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                <a href="images/services/img_6.jpg">
+                <div class="zoom">
                     <img src="images/services/img_6.jpg" class="img img-responsive table-bordered" alt=""/>
-                </a>
+                </div>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                <a href="images/services/img_7.JPG">
+                <div class="zoom">
                     <img src="images/services/img_7.JPG" class="img img-responsive table-bordered" alt=""/>
-                </a>
+                </div>
             </div>
         </div>
         <br>
@@ -43,10 +43,10 @@ include "header.php";
         <br>
         <hr>
         <br>
-        <div>
-            ООО "МирТехМаш" сотрудничает с ведущими фирмами-производителями систем управления (Siemens,FANUC, Balt
+        <div style="text-align: center">
+            <b>ООО "МирТехМаш" сотрудничает с ведущими фирмами-производителями систем управления (Siemens,FANUC, Balt
             System, Mikros, Маяк), комплектных приводов(DELTA, OMRON), электро-механических узлов, пуско-регулирующей
-            аппаратуры.
+                аппаратуры.</b>
         </div>
         <br>
     </div>

@@ -8,7 +8,7 @@ include "header.php";
             РЕКВИЗИТЫ
         </div>
 
-        <table class="table table-bordered table-responsive">
+        <table class="table table-bordered table-responsive" style="text-align: center">
             <thead>
                 <tr>
                     <th>Полное наименование:</th>

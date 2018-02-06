@@ -31,23 +31,25 @@ include "header.php";
             +7 (916) 685-46-21. Директор.
         </div>
         <br>
-        <ul style="text-align: center; font-weight: bold">
-            <li><a href="lathes_with_CNC_Unit.php">
-                    Токарные станки с ЧПУ
-                </a></li>
-            <li><a href="universal_lathes.php">
-                    Универсальные токарные станки
-                </a></li>
-            <li><a href="milling_machines.php">
-                    Фрезерные станки
-                </a></li>
-            <li><a href="surface_grinding_machines.php">
-                    Плоскошлифовальные станки
-                </a></li>
-            <li><a href="сylindrical_grinding_machines.php">
-                    Круглошлифовальные станки
-                </a></li>
-        </ul>
+        <u>
+            <ul style="text-align: center; font-weight: bold">
+                <li><a href="lathes_with_CNC_Unit.php">
+                        Токарные станки с ЧПУ
+                    </a></li>
+                <li><a href="universal_lathes.php">
+                        Универсальные токарные станки
+                    </a></li>
+                <li><a href="milling_machines.php">
+                        Фрезерные станки
+                    </a></li>
+                <li><a href="surface_grinding_machines.php">
+                        Плоскошлифовальные станки
+                    </a></li>
+                <li><a href="cylindrical_grinding_machines.php">
+                        Круглошлифовальные станки
+                    </a></li>
+            </ul>
+        </u>
         <br>
 
     </div>
