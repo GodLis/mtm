@@ -6,7 +6,7 @@
 
 @media (min-width: 768px) and (max-width: 979px) {
     div.content {
-        padding-top: 2%;
+        padding-top: 4%;
     }
 }
 
@@ -14,9 +14,15 @@
     div.row.center-block.page-header {
         display: none;
     }
+    div.content {
+        padding-top: 4%;
+    }
 }
 
 @media (max-width: 480px) {
+    div.row.center-block.page-header {
+        display: none;
+    }
     div.content {
         padding-top: 2%;
     }

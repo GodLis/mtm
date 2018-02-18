@@ -14,6 +14,7 @@
     <link href="css/style.css" rel="stylesheet">
     <link href="css/animate.css" rel="stylesheet">
 
+
     <style>
         .zoom:after,
         .zoom1:after {
@@ -27,6 +28,19 @@
             background:url(http://bootstraptema.ru/plugins/2016/zoom/zoom.png);
         }
     </style>
+
+    <script>
+
+        var t;
+        function up() {
+            var top = Math.max(document.body.scrollTop,document.documentElement.scrollTop);
+            if(top > 0) {
+                window.scrollBy(0,-100);
+                t = setTimeout('up()',20);
+            } else clearTimeout(t);
+            return false;
+        }
+    </script>
 
     <script src="http://bootstraptema.ru/plugins/jquery/jquery-1.11.3.min.js"></script>
     <script src="http://bootstraptema.ru/plugins/2016/zoom/zoom.js"></script>
@@ -50,27 +64,22 @@
             <img src="images/mir_tekh_mash_logo.png" class="img img-responsive" alt="логотип"/>
         </div>
 
-        <!--<div class="col-md-1 col-sm-3 col-xs-3 social_icon">
-            <button>
-                <img src="images/vk_2.png" class="img img-responsive nav_icon" onclick='location.href="http://vk.com/"'/>
-            </button>
-        </div>-->
-        <div class="col-sm-1 col-md-1 col-lg-1 social_icon">
-            <img src="images/vk_2.png" class="img img-responsive" alt="логотип"/>
+        <div class="btn btn-link col-sm-1 col-md-1 col-lg-1 social_icon" onclick="location.href='http://vk.com/'">
+            <img src="images/vk_2.png" class="img-rounded" style="background-color: rgba(0,0,0,0);"/>
         </div>
-        <div class="col-sm-1 col-md-1 col-lg-1 social_icon">
-            <img src="images/vk_2.png" class="img img-responsive" alt="логотип"/>
+        <div class="btn btn-link col-sm-1 col-md-1 col-lg-1 social_icon" onclick="location.href='http://vk.com/'">
+            <img src="images/vk_2.png" class="img-rounded" style="background-color: rgba(0,0,0,0);"/>
         </div>
-        <div class="col-sm-1 col-md-1 col-lg-1 social_icon">
-            <img src="images/vk_2.png" class="img img-responsive" alt="логотип"/>
+        <div class="btn btn-link col-sm-1 col-md-1 col-lg-1 social_icon" onclick="location.href='http://vk.com/'">
+            <img src="images/vk_2.png" class="img-rounded" style="background-color: rgba(0,0,0,0);"/>
         </div>
-        <div class="col-sm-1 col-md-1 col-lg-1 social_icon">
-            <img src="images/vk_2.png" class="img img-responsive" alt="логотип"/>
+        <div class="btn btn-link col-sm-1 col-md-1 col-lg-1 social_icon" onclick="location.href='http://vk.com/'">
+            <img src="images/vk_2.png" class="img-rounded" style="background-color: rgba(0,0,0,0);"/>
         </div>
     </div>
 
     <!--навигационная панель-->
-    <div class="navbar navbar-default text-uppercase" role="navigation">
+    <div class="navbar navbar-default text-uppercase " role="navigation">
         <div class="">
             <div class="container">
 
@@ -88,7 +97,7 @@
                 </div>
 
                 <div class="navbar-collapse collapse nav-collapse" >
-                    <ul class="nav navbar-nav">
+                    <ul class="nav navbar-nav nav-tabs">
 
                         <li class="dropdown">
                             <a class="dropdown-toggle" href="index.php">визитка

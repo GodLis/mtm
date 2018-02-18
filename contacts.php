@@ -29,16 +29,16 @@ include "header.php";
 
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" style="text-align: center">
-                <a href="images/contacts/img_2.jpg">
+                <div class="zoom">
                     <img src="images/contacts/img_2.jpg" class="img img-responsive table-bordered" alt=""/>
-                </a>
+                </div>
                 <br>
                 <b>Расположение на территории Технопарка</b>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" style="text-align: center">
-                <a href="images/contacts/img_1.jpg">
+                <div class="zoom">
                     <img src="images/contacts/img_1.jpg" class="img img-responsive table-bordered" alt=""/>
-                </a>
+                </div>
                 <br>
                 <b>Доехать на машине</b>
             </div>
