@@ -67,14 +67,14 @@
         <div class="btn btn-link col-sm-1 col-md-1 col-lg-1 social_icon" onclick="location.href='http://vk.com/'">
             <img src="images/vk_2.png" class="img-rounded" style="background-color: rgba(0,0,0,0);"/>
         </div>
-        <div class="btn btn-link col-sm-1 col-md-1 col-lg-1 social_icon" onclick="location.href='http://vk.com/'">
-            <img src="images/vk_2.png" class="img-rounded" style="background-color: rgba(0,0,0,0);"/>
+        <div class="btn btn-link col-sm-1 col-md-1 col-lg-1 social_icon" onclick="location.href='http://linkedin.com/'">
+            <img src="images/ln.png" class="img-rounded" style="background-color: rgba(0,0,0,0);"/>
         </div>
-        <div class="btn btn-link col-sm-1 col-md-1 col-lg-1 social_icon" onclick="location.href='http://vk.com/'">
-            <img src="images/vk_2.png" class="img-rounded" style="background-color: rgba(0,0,0,0);"/>
+        <div class="btn btn-link col-sm-1 col-md-1 col-lg-1 social_icon" onclick="location.href='contacts.php#marker'">
+            <img src="images/yk.png" class="img-rounded" style="background-color: rgba(0,0,0,0);"/>
         </div>
-        <div class="btn btn-link col-sm-1 col-md-1 col-lg-1 social_icon" onclick="location.href='http://vk.com/'">
-            <img src="images/vk_2.png" class="img-rounded" style="background-color: rgba(0,0,0,0);"/>
+        <div class="btn btn-link col-sm-1 col-md-1 col-lg-1 social_icon" onclick="location.href='contacts.php#contactForm'">
+            <img src="images/fb_2.png" class="img-rounded" style="background-color: rgba(0,0,0,0);"/>
         </div>
     </div>
 

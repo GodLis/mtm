@@ -45,11 +45,11 @@ include "header.php";
         </div>
         <br>
 
-        <div class="h3" style="text-align: center">
+        <div class="h3" style="text-align: center" id="marker">
             <u>Мы на Яндекс.Карте</u>
         </div>
         <br>
-        <div>
+        <div >
             <script type="text/javascript">
                 ymaps.ready(function () {
                     var MainMap = new ymaps.Map("MainMap", {
